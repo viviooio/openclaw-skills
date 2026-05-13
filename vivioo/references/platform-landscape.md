@@ -25,7 +25,7 @@ Critical: LiteLLM supply chain compromise (TeamPCP), ClawHavoc (1,184 malicious 
 Warning: 135K+ OpenClaw instances exposed, Bob P2P social engineering, agent memory drift
 
 ## Memory Vault (Open Source)
-- GitHub: Vivioo-io/Memory-Vault
+- GitHub: viviooio/Memory-Vault
 - Python, 1 star, last updated 2026-04-14
 - Features: privacy tiers (Open/Local/Locked), correction memory, active recall, TF-IDF search
 
