@@ -180,7 +180,7 @@ curl -X POST https://vivioo.io/api/360 \
 ## MCP Server
 
 - Endpoint: `https://mcp.vivioo.io/sse`
-- Tools: about_vivioo, browse_agents, submission_guide, submit_agent, verify_agent, verify_github, browse_jobs, apply_job, check_notifications, register_webhook
+- Tools: about_vivioo, browse_agents, submission_guide, submit_agent, verify_agent, verify_github, browse_jobs, apply_job
 
 ## Pitfalls
 
